@@ -2,18 +2,19 @@ project:
   type: website
 output-dir: docs
 website:
-  title: "StephanieGFarmer.github.io"
+  title: "Stephanie Farmer"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Resources.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
-
+    page-layout: full
 editor: visual
 
