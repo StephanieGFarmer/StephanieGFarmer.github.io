@@ -1,6 +1,6 @@
 ---
 title: "Stephanie Farmer"
-image:  IMG_2756.JPG
+image: IMG_2756.JPG
 toc: false
 about:
   template: jolla

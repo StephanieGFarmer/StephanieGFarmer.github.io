@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "Resources.html",
+    "href": "Resources.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download Resume (PDF)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Stephanie Farmer"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "CSU Projects",
+    "section": "",
+    "text": "In the Spring of 2025 I took a Quantitative Reasoning for Ecosystem Science based in R. I learned and wrote code with interesting data science.\n\n\nWhat I learned in this assignment:\n\nCreated a Quarto Website\nLearned how to format with styles\nCustomizing the navbar with quarto.yml\nFinally figured out directories"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Stephanie Farmer",
+    "section": "",
+    "text": "Hi! I’m Steph, a third-year Ecosystem Science and Sustainability student at Colorado State University. I’m passionate about integrating sustainability into industries to create a more resilient future. Outside of academics, you’ll find me exploring the outdoors—whether it’s hiking, camping, or simply appreciating nature. I’m always eager to learn, connect, and make a positive impact!"
+  },
+  {
+    "objectID": "DELETE_LATER/practice-markdown.html",
+    "href": "DELETE_LATER/practice-markdown.html",
+    "title": "Here is my level one header",
+    "section": "",
+    "text": "Here is my level one header\nHere is my first paragraph\nHere is my second paragraph, where you can read more about MEDS.\nThis is very important text!"
+  }
+]
