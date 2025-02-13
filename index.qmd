@@ -20,5 +20,5 @@ about:
 
 Hi! I'm Steph, a third-year Ecosystem Science and Sustainability student at Colorado State University. I'm passionate about integrating sustainability into industries to create a more resilient future. Outside of academics, you’ll find me exploring the outdoors—whether it's hiking, camping, or simply appreciating nature. I'm always eager to learn, connect, and make a positive impact!
 
-```{}
+```         
 ```

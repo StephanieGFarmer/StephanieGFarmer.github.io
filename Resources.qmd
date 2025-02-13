@@ -3,4 +3,4 @@ title: "Resume"
 format: html
 ---
 
- [Download Resume (PDF)](docs/resume.pdf)
+[Download Resume (PDF)](docs/resume.pdf)

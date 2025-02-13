@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-Stephanie Farmer
+## A little about me!
+
+##### As a junior studying **Ecosystem Science and Sustainability**, I am passionate about understanding and protecting the natural world. With a deep love for the outdoors, I enjoy hiking, camping, and exploring sustainable solutions that contribute to a healthier planet. I am eager to get involved in the **sustainability industry**, where I can combine my academic knowledge with hands-on experience to make a meaningful impact. Beyond my environmental interests, I have a strong appreciation for **fashion** and, of course, an undeniable love for **cats**. I am excited to pursue opportunities that align with my values and interests, bridging my passion for nature with innovative sustainability practices.
+
+<https://stephaniegfarmer.github.io/>
