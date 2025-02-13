@@ -4,12 +4,15 @@ output-dir: docs
 website:
   title: "Stephanie Farmer"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
       - Resources.qmd
-
+  page-footer:
+    background: light 
+    left: Copyright 2025, Stephanie Farmer
+    right: This website is built with {{< fa brands github title="The GitHub octocat logo" >}}[{{< fa brands r-project title="R Project" >}}][Quarto](https://quarto.org/){target=_blank}
 format:
   html:
     theme: minty
