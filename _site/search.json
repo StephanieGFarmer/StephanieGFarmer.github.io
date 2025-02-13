@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "Resources.html",
+    "href": "Resources.html",
+    "title": "Resume",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Download Resume (PDF)"
   },
   {
     "objectID": "index.html",
@@ -14,24 +14,38 @@
     "text": "Hi! I’m Steph, a third-year Ecosystem Science and Sustainability student at Colorado State University. I’m passionate about integrating sustainability into industries to create a more resilient future. Outside of academics, you’ll find me exploring the outdoors—whether it’s hiking, camping, or simply appreciating nature. I’m always eager to learn, connect, and make a positive impact!"
   },
   {
-    "objectID": "DELETE_LATER/practice-markdown.html",
-    "href": "DELETE_LATER/practice-markdown.html",
-    "title": "Here is my level one header",
+    "objectID": "docs/about.html",
+    "href": "docs/about.html",
+    "title": "About",
     "section": "",
-    "text": "Here is my level one header\nHere is my first paragraph\nHere is my second paragraph, where you can read more about MEDS.\nThis is very important text!"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "Resources.html",
-    "href": "Resources.html",
+    "objectID": "docs/projects.html",
+    "href": "docs/projects.html",
+    "title": "CSU Projects",
+    "section": "",
+    "text": "In the Spring of 2025 I took a Quantitative Reasoning for Ecosystem Science based in R. I learned and wrote code with interesting data science.\n\n\nWhat I learned in this assignment:\n\nCreated a Quarto Website\nLearned how to format with styles\nCustomizing the navbar with quarto.yml\nFinally figured out directories"
+  },
+  {
+    "objectID": "docs/index.html",
+    "href": "docs/index.html",
+    "title": "Stephanie Farmer",
+    "section": "",
+    "text": "Hi! I’m Steph, a third-year Ecosystem Science and Sustainability student at Colorado State University. I’m passionate about integrating sustainability into industries to create a more resilient future. Outside of academics, you’ll find me exploring the outdoors—whether it’s hiking, camping, or simply appreciating nature. I’m always eager to learn, connect, and make a positive impact!"
+  },
+  {
+    "objectID": "docs/Resources.html",
+    "href": "docs/Resources.html",
     "title": "Resume",
     "section": "",
     "text": "Download Resume (PDF)"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "CSU Projects",
+    "objectID": "DELETE_LATER/practice-markdown.html",
+    "href": "DELETE_LATER/practice-markdown.html",
+    "title": "Here is my level one header",
     "section": "",
-    "text": "In the Spring of 2025 I took a Quantitative Reasoning for Ecosystem Science based in R. I learned and wrote code with interesting data science.\n\n\nWhat I learned in this assignment:\n\nCreated a Quarto Website\nLearned how to format with styles\nCustomizing the navbar with quarto.yml\nFinally figured out directories"
+    "text": "Here is my level one header\nHere is my first paragraph\nHere is my second paragraph, where you can read more about MEDS.\nThis is very important text!"
   }
 ]
