@@ -9,13 +9,15 @@ website:
         text: Home
       - about.qmd
       - Resources.qmd
+      - projects.qmd
   page-footer:
     background: light 
     left: Copyright 2025, Stephanie Farmer
-    right: This website is built with {{< fa brands github title="The GitHub octocat logo" >}}[{{< fa brands r-project title="R Project" >}}][Quarto](https://quarto.org/){target=_blank}
+    right: This website is built with {{< fa brands github title="The GitHub octocat logo" >}}[{{< fa brands r-project title="R Project" >}}] and [Quarto](https://quarto.org/){target=_blank}
 format:
   html:
-    theme: minty
+    theme: styles.scss
+    mainfont: Farsan
     css: styles.css
     toc: true
     page-layout: full

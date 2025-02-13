@@ -1,6 +1,6 @@
 ---
 title: "Stephanie Farmer"
-image: images/IMG_2756.JPG
+image:  images/IMG_2756.JPG
 toc: false
 about:
   template: jolla
@@ -20,6 +20,5 @@ about:
 
 Hi! I'm Steph, a third-year Ecosystem Science and Sustainability student at Colorado State University. I'm passionate about integrating sustainability into industries to create a more resilient future. Outside of academics, you’ll find me exploring the outdoors—whether it's hiking, camping, or simply appreciating nature. I'm always eager to learn, connect, and make a positive impact!
 
-```{r}
-1 + 1
+```{}
 ```
